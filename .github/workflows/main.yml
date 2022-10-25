@@ -5,5 +5,5 @@ jobs:
   Run-Python-Files:
     runs-on: ubuntu-latest
     steps:
-      - run: python lab4/.github/workflows/scratch1.py
-      - run: python lab4/.github/workflows/scratch2.py
+      - run: python .github/workflows/scratch1.py
+      - run: python .github/workflows/scratch2.py
