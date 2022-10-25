@@ -5,4 +5,4 @@ jobs:
   Run-Python-Files:
     runs-on: ubuntu-latest
     steps:
-      - run: scratch2.py
+      - run: python:scratch2.py
